@@ -1,10 +1,10 @@
 name: 'native_extra_flutter'
-description: 'whisper_gpl is program for help you, booster up your projects significants with amazing features and super easy for use'
+description: 'native_extra_flutter is program for help you, booster up your projects significants with amazing features and super easy for use'
 version: '0.0.0'
 homepage: "https://youtube.com/@azkadev"
-repository: "https://github.com/azkadev/whisper_gpl"
-issue_tracker: "https://github.com/azkadev/whisper_gpl/issues"
-documentation: "https://github.com/azkadev/whisper_gpl"
+repository: "https://github.com/azkadev/native_extra_flutter"
+issue_tracker: "https://github.com/azkadev/native_extra_flutter/issues"
+documentation: "https://github.com/azkadev/native_extra_flutter"
 funding:
   - "https://github.com/sponsors/azkadev"
   - "https://www.patreon.com/c/azkadev"

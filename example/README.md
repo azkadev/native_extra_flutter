@@ -5,7 +5,7 @@ Silahkan Check Beberapa Repository di bawah ini
 
 ## Mulai Cepat
 
-https://github.com/azkadev/whisper_gpl/tree/main/quickstart
+https://github.com/azkadev/native_extra_flutter/tree/main/quickstart
 
 ## Whisper Flutter
 
